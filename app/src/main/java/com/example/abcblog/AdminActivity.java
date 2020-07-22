@@ -41,6 +41,7 @@ public class AdminActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(AdminActivity.this, AdminpostActivity.class);
+                //fj;eorf
                 startActivity(intent);
             }
         });
